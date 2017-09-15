@@ -15,7 +15,7 @@
 	<mvc:annotation-driven />
 
     <!-- enable component scanning (of presentation layer only) -->  
-	<context:component-scan base-package="com.chopper.controller" />
+	<context:component-scan base-package="com.chopper.oss.controller" />
 
 	<!-- exception handler -->
 
