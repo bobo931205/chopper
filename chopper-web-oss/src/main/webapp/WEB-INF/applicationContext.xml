@@ -30,8 +30,7 @@
 		<property name="timeBetweenEvictionRunsMillis" value="600000"></property>
 	</bean>
 
-	<bean id="sessionFactory"
-		  class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+	<bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
 		<property name="dataSource" ref="master" />
 		<property name="packagesToScan">
 			<list>
@@ -45,8 +44,7 @@
 			</props>
 		</property>
 	</bean>
-	<bean id="transactionManager"
-		  class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+	<bean id="transactionManager" class="org.springframework.orm.hibernate4.HibernateTransactionManager">
 		<property name="sessionFactory" ref="sessionFactory" />
 	</bean>
 
@@ -54,8 +52,7 @@
 	<context:annotation-config />
 
 	<!-- enable component scanning (beware: it does not enable mapper scanning!) -->
-	<context:component-scan
-			base-package="com.chopper.oss.service,com.chopper.oss.dao" />
+	<context:component-scan base-package="com.chopper.oss.service,com.chopper.oss.dao" />
 
 	<tx:advice id="txAdvice" transaction-manager="transactionManager">
 		<tx:attributes>
