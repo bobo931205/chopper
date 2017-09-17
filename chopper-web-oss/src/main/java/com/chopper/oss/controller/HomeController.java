@@ -16,10 +16,17 @@ public class HomeController {
     @Autowired
     private AccountService accountService;
 
-    @RequestMapping(name = "home", method = RequestMethod.GET)
+    @RequestMapping(value= "home", method = RequestMethod.GET)
     public String home(){
         Account account = accountService.getAccountByName("chopper");
         System.out.println(account.getName());
         return "home";
+    }
+
+    @RequestMapping(value = "form", method = RequestMethod.GET)
+    public String form(){
+        Account account = accountService.getAccountByName("chopper");
+        System.out.println(account.getName());
+        return "form";
     }
 }
