@@ -34,7 +34,7 @@
 		<property name="dataSource" ref="master" />
 		<property name="packagesToScan">
 			<list>
-				<value>com.chopper.oss.entity</value>
+				<value>com.chopper.cv.entity</value>
 			</list>
 		</property>
 		<property name="hibernateProperties">
@@ -52,7 +52,7 @@
 	<context:annotation-config />
 
 	<!-- enable component scanning (beware: it does not enable mapper scanning!) -->
-	<context:component-scan base-package="com.chopper.oss.service,com.chopper.oss.dao" />
+	<context:component-scan base-package="com.chopper.cv.service,com.chopper.cv.dao" />
 
 	<tx:advice id="txAdvice" transaction-manager="transactionManager">
 		<tx:attributes>
