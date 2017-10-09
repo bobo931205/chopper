@@ -94,9 +94,9 @@
                             <div class="row">
                                 <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
                                     <div class="slider-text-inner">
-                                        <h1>虽然你来日遥遥无期，但你要知道，只要你在路上，我就在安静的等你，永远不算迟到！</h1>
+                                        <h1>晚点遇见你，余生都是你</h1>
                                         <!-- 你当我是个风筝，要不把我放了，要不然收好带回家，别用一条看不见的情思拴着我，让我心伤。 ->
-                                       <!--<p><a class="btn btn-primary btn-demo popup-vimeo" href="#"> <i class="icon-monitor"></i> Live Preview</a> <a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>-->
+                                        <!--<p><a class="btn btn-primary btn-demo popup-vimeo" href="#"> <i class="icon-monitor"></i> Live Preview</a> <a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>-->
                                     </div>
                                 </div>
                             </div>
@@ -140,13 +140,12 @@
                 </div>
                 <div class="col-md-3">
                     <div class="resume-item animate-box" data-animate-effect="fadeInLeft">
-                        <label>手机：</label><span>18616594902</span>
+                        <label>出生日期：</label><span>1993年12月05号</span>
                     </div>
                 </div>
-
                 <div class="col-md-3">
                     <div class="resume-item animate-box" data-animate-effect="fadeInLeft">
-                        <label>出生日期：</label><span>1993年12月05号</span>
+                        <label>手机：</label><span>18616594902</span>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -171,7 +170,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-                            <p>暂无 </p>
+                        <p>热爱编程，熟练掌握JAVA， 熟悉MySql关系型数据库；熟练掌握Spring、MyBatis、Hibernate等各种框架，熟悉基础的数据结构和算法，希望在三年内成为架构师</p>
+                        <p>时而内向，时而外向，患有间歇性沉默症。会坚持不懈的追求认定的事，无论付出多大的艰辛。不愿意和亲人和朋友分享伤心的事，不愿意勉强别人</p>
+                        <p>一枚努力奋斗，追求美好的程序猿</p>
                     </div>
                 </div>
 
@@ -182,7 +183,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-                        <p>暂无 </p>
+                        <p>2009.09 - 2011.07 安徽泗县第三中学 </p>
+                        <p>2011.09 - 2014.07 安徽工业职业技术学院 </p>
+                        <p>目前在读本科（以前没有好好学习，有点遗憾，现在我要拿回来） </p>
                     </div>
                 </div>
 
@@ -193,7 +196,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-                        <p>暂无 </p>
+                        <p>自信、自律、自强，具备较为丰富的工作与学习实践经验，认真踏实负责，信奉“在其位谋其政 任其职尽其责”。</p>
+                        <p>待人真诚，对新兴技术和事物有浓厚兴趣， 适应能力强</p>
+                        <p>有一点慢热^_^</p>
                     </div>
                 </div>
 
@@ -204,13 +209,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-                        <p>暂无 </p>
+                        <p>一个人看书、写代码、跑步、发呆 </p>
+                        <p>和喜欢的人一起旅游、看电影、吃吃吃 </p>
                     </div>
                 </div>
 
             </div>
         </div>
-
         <div id="get-in-touch">
             <div class="fh5co-narrow-content">
                 <div class="row">

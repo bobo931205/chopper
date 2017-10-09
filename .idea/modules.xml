@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/chopper.iml" filepath="$PROJECT_DIR$/.idea/chopper.iml" />
       <module fileurl="file://$PROJECT_DIR$/curriculum-vitae/curriculum-vitae.iml" filepath="$PROJECT_DIR$/curriculum-vitae/curriculum-vitae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chopper-web-oss/oss.iml" filepath="$PROJECT_DIR$/chopper-web-oss/oss.iml" />
     </modules>
   </component>
 </project>
