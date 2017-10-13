@@ -6,5 +6,5 @@ package com.chopper.cv.service;
  */
 public interface WebsiteVisitLogService {
 
-    boolean visitWebsite(String website, String ip);
+    boolean visitWebsite(String website, String ip, String address);
 }

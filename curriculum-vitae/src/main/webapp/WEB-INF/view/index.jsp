@@ -171,7 +171,7 @@
                 <div class="col-md-6">
                     <div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
                         <p>热爱编程，熟练掌握JAVA， 熟悉MySql关系型数据库；熟练掌握Spring、MyBatis、Hibernate等各种框架，熟悉基础的数据结构和算法，希望在三年内成为架构师</p>
-                        <p>时而内向，时而外向，患有间歇性沉默症。会坚持不懈的追求认定的事，无论付出多大的艰辛。不愿意和亲人和朋友分享伤心的事，不愿意勉强别人</p>
+                        <p>时而内向，时而外向，患有间歇性沉默症。会坚持不懈的追求认定的事，无论付出多大的艰辛。不愿意和人分享伤心的事，不愿意勉强别人</p>
                         <p>一枚努力奋斗，追求美好的程序猿</p>
                     </div>
                 </div>
@@ -184,8 +184,8 @@
                 <div class="col-md-6">
                     <div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
                         <p>2009.09 - 2011.07 安徽泗县第三中学 </p>
-                        <p>2011.09 - 2014.07 安徽工业职业技术学院 </p>
-                        <p>目前在读本科（以前没有好好学习，有点遗憾，现在我要拿回来） </p>
+                        <p>2011.09 - 2014.07 安徽工业职业技术学院</p>
+                        <p>在读本科（以前没有好好学习，有点遗憾）</p>
                     </div>
                 </div>
 

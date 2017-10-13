@@ -15,6 +15,7 @@ public class WebsiteVisitLog {
     private Integer id;
     private String webSite;
     private String ip;
+    private String address;
     @Column(name = "create_time")
     private Date createTime;
 
@@ -48,5 +49,13 @@ public class WebsiteVisitLog {
 
     public void setCreateTime(Date createTime) {
         this.createTime = createTime;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 }

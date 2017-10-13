@@ -17,10 +17,11 @@ public class WebsiteVisitLogServiceImpl implements WebsiteVisitLogService{
     @Autowired
     private WebsiteVisitLogDao websiteVisitLogDao;
 
-    public boolean visitWebsite(String website, String ip) {
+    public boolean visitWebsite(String website, String ip, String address) {
         WebsiteVisitLog websiteVisitLog = new WebsiteVisitLog();
         websiteVisitLog.setWebSite(website);
         websiteVisitLog.setIp(ip);
+        websiteVisitLog.setAddress(address);
         websiteVisitLog.setCreateTime(new Date());
         websiteVisitLogDao.insertWebsiteVisitLog(websiteVisitLog);
         return true;
