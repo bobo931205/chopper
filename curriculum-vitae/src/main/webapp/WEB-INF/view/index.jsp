@@ -51,10 +51,10 @@
         <h1 id="fh5co-logo"><a href="index.html">王乔波</a></h1>
         <nav id="fh5co-main-menu" role="navigation">
             <ul>
-                <li class="fh5co-active"><a href="index.html">简历</a></li>
+                <li class="fh5co-active"><a href="/">简历</a></li>
                 <li><a href="blog.html">履历</a></li>
                 <li><a href="portfolio.html">项目</a></li>
-                <li><a href="about.html">关于</a></li>
+                <li><a href="messageBoard">留言板</a></li>
                 <li><a href="contact.html">联系我</a></li>
             </ul>
         </nav>
@@ -81,7 +81,7 @@
                             <div class="row">
                                 <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
                                     <div class="slider-text-inner">
-                                        <h1>时间不在乎你拥有多少，而在于你怎样使用。</h1>
+                                        <h1>你的玫瑰之所以如此重要，是因为你为她花费了时间</h1>
                                         <!--<p><a class="btn btn-primary btn-demo popup-vimeo" href=""> <i class="icon-monitor"></i> Live Preview</a> <a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>-->
                                     </div>
                                 </div>
@@ -108,7 +108,8 @@
                             <div class="row">
                                 <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
                                     <div class="slider-text-inner">
-                                        <h1>我宁愿犯错，也不愿什么都不做。</h1>
+                                        <h1>时间不在乎你拥有多少，而在于你怎样使用</h1>
+                                        <!--<h1>我宁愿犯错，也不愿什么都不做。</h1>->
                                         <!-- 再长的路，一步步也能走完，再短的路，不迈开双脚也无法到达。 ->
                                         <!--<p><a class="btn btn-primary btn-demo popup-vimeo" href=""> <i class="icon-monitor"></i> Live Preview</a> <a class="btn btn-primary btn-learn">Learn More<i class="icon-arrow-right3"></i></a></p>-->
                                     </div>

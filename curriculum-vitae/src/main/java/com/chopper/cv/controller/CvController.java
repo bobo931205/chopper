@@ -24,8 +24,9 @@ public class CvController {
         String address = "";
         if (!StringUtils.isEmpty(ip)){
             try {
-                address = AddressUtils.getAddresses("ip=" + ip, "utf-8");
-            } catch (UnsupportedEncodingException e) {
+                //address = AddressUtils.getAddresses("ip=" + ip, "utf-8");
+                address = "";
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         }
