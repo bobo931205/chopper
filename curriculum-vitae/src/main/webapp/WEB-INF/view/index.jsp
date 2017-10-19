@@ -51,11 +51,11 @@
         <h1 id="fh5co-logo"><a href="index.html">王乔波</a></h1>
         <nav id="fh5co-main-menu" role="navigation">
             <ul>
-                <li class="fh5co-active"><a href="/">简历</a></li>
-                <li><a href="blog.html">履历</a></li>
-                <li><a href="portfolio.html">项目</a></li>
+                <li class="fh5co-active"><a href="">简历</a></li>
+                <li><a href="career">工作经历</a></li>
+                <li><a href="report">工作日记</a></li>
                 <li><a href="messageBoard">留言板</a></li>
-                <li><a href="contact.html">联系我</a></li>
+                <li><a href="contact">联系我</a></li>
             </ul>
         </nav>
 

@@ -54,8 +54,8 @@
                 <li><a href=".">简历</a></li>
                 <li><a href="career">工作经历</a></li>
                 <li><a href="report">工作日记</a></li>
-                <li class="fh5co-active"><a href="messageBoard">留言板</a></li>
-                <li><a href="contact">联系我</a></li>
+                <li><a href="messageBoard">留言板</a></li>
+                <li class="fh5co-active"><a href="contact">联系我</a></li>
             </ul>
         </nav>
 
@@ -72,37 +72,7 @@
     </aside>
 
     <div id="fh5co-main">
-        <aside id="fh5co-hero" class="js-fullheight">
-            <div class="flexslider js-fullheight">
-                <ul class="slides">
-                    <li style="background-image: url(./images/img_bg_2.jpg);">
-                        <div class="overlay"></div>
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
-                                    <div class="slider-text-inner">
-                                        <h1>时间不在乎你拥有多少，而在于你怎样使用。</h1>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </aside>
-
-        <div class="fh5co-narrow-content">
-            <h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">基本信息</h2>
-            <div class="row">
-              <textarea></textarea>
-            </div>
-        </div>
-        <div class="fh5co-narrow-content">
-            <h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">自我介绍</h2>
-            <div class="row">
-                <div class="col-md-2">111</div><div class="col-md-10">111</div>
-            </div>
-        </div>
+        正在努力开发中
     </div>
 </div>
 

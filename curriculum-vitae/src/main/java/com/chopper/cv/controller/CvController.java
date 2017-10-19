@@ -34,12 +34,6 @@ public class CvController {
         return "index";
     }
 
-    @RequestMapping(value= "/contact", method = RequestMethod.GET)
-    public String contact(HttpServletRequest request){
-        return "contact";
-    }
-
-
     public static String getRequestRealIp(HttpServletRequest request) {
         String ip = request.getHeader("x-forwarded-for");
         if (ip != null && ip.contains(",")) {
